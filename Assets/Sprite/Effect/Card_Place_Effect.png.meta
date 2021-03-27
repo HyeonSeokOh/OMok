@@ -1,0 +1,1370 @@
+fileFormatVersion: 2
+guid: 98b30981a74f4884db709761acba75c9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7007801996447609549
+    second: Card_Place_Effect_0
+  - first:
+      213: -2042440646051992449
+    second: Card_Place_Effect_1
+  - first:
+      213: -7558417659411263932
+    second: Card_Place_Effect_2
+  - first:
+      213: -8143734064977488197
+    second: Card_Place_Effect_3
+  - first:
+      213: 7774071799828442291
+    second: Card_Place_Effect_4
+  - first:
+      213: 5258386356811890082
+    second: Card_Place_Effect_5
+  - first:
+      213: -5265594800901507437
+    second: Card_Place_Effect_6
+  - first:
+      213: 7996479053551692182
+    second: Card_Place_Effect_7
+  - first:
+      213: -3290366302381276536
+    second: Card_Place_Effect_8
+  - first:
+      213: -2572880713604939821
+    second: Card_Place_Effect_9
+  - first:
+      213: 5520398940511712218
+    second: Card_Place_Effect_10
+  - first:
+      213: -8568839007591561539
+    second: Card_Place_Effect_11
+  - first:
+      213: -6668724313435322597
+    second: Card_Place_Effect_12
+  - first:
+      213: -1844340056001861949
+    second: Card_Place_Effect_13
+  - first:
+      213: -1138330216911082854
+    second: Card_Place_Effect_14
+  - first:
+      213: 2591503181242663637
+    second: Card_Place_Effect_15
+  - first:
+      213: 8972101609279486009
+    second: Card_Place_Effect_16
+  - first:
+      213: -8002445760476906050
+    second: Card_Place_Effect_17
+  - first:
+      213: -2742960914110863833
+    second: Card_Place_Effect_18
+  - first:
+      213: -7693511902772112962
+    second: Card_Place_Effect_19
+  - first:
+      213: -2475504010585490962
+    second: Card_Place_Effect_20
+  - first:
+      213: -1981186661019854993
+    second: Card_Place_Effect_21
+  - first:
+      213: -3145749919544766067
+    second: Card_Place_Effect_22
+  - first:
+      213: -8455020181209502359
+    second: Card_Place_Effect_23
+  - first:
+      213: 4720506396331221926
+    second: Card_Place_Effect_24
+  - first:
+      213: -1169167425419665058
+    second: Card_Place_Effect_25
+  - first:
+      213: 1666138330688742996
+    second: Card_Place_Effect_26
+  - first:
+      213: -7673122923145744104
+    second: Card_Place_Effect_27
+  - first:
+      213: 6213100539237983818
+    second: Card_Place_Effect_28
+  - first:
+      213: -1944500992357124109
+    second: Card_Place_Effect_29
+  - first:
+      213: 2779617316062841120
+    second: Card_Place_Effect_30
+  - first:
+      213: -953798328658359810
+    second: Card_Place_Effect_31
+  - first:
+      213: -3759518937091918485
+    second: Card_Place_Effect_32
+  - first:
+      213: 5139512965410830422
+    second: Card_Place_Effect_33
+  - first:
+      213: 2440627464820800828
+    second: Card_Place_Effect_34
+  - first:
+      213: -5046348324646893912
+    second: Card_Place_Effect_35
+  - first:
+      213: 4414000882781355625
+    second: Card_Place_Effect_36
+  - first:
+      213: -1941717335602191630
+    second: Card_Place_Effect_37
+  - first:
+      213: -7656155772513357387
+    second: Card_Place_Effect_38
+  - first:
+      213: 9142993666542071771
+    second: Card_Place_Effect_39
+  - first:
+      213: 7286499353832762723
+    second: Card_Place_Effect_40
+  - first:
+      213: 3246262927997587527
+    second: Card_Place_Effect_41
+  - first:
+      213: 234280931645954835
+    second: Card_Place_Effect_42
+  - first:
+      213: 6944751880131485898
+    second: Card_Place_Effect_43
+  - first:
+      213: -5394081120034985576
+    second: Card_Place_Effect_44
+  - first:
+      213: 5854360192462800248
+    second: Card_Place_Effect_45
+  - first:
+      213: -2084072298335639009
+    second: Card_Place_Effect_46
+  - first:
+      213: 2222400807116856797
+    second: Card_Place_Effect_47
+  - first:
+      213: 432164393990714090
+    second: Card_Place_Effect_48
+  - first:
+      213: -8318434561363003853
+    second: Card_Place_Effect_49
+  - first:
+      213: 6994772304554481521
+    second: Card_Place_Effect_50
+  - first:
+      213: 5667735400912437327
+    second: Card_Place_Effect_51
+  - first:
+      213: -6843446991750928415
+    second: Card_Place_Effect_52
+  - first:
+      213: 2421091183548057371
+    second: Card_Place_Effect_53
+  - first:
+      213: 767370028302664591
+    second: Card_Place_Effect_54
+  - first:
+      213: 330529292300852353
+    second: Card_Place_Effect_55
+  - first:
+      213: 6631815625887358864
+    second: Card_Place_Effect_56
+  - first:
+      213: -7672544762936165362
+    second: Card_Place_Effect_57
+  - first:
+      213: -3418018143410080262
+    second: Card_Place_Effect_58
+  - first:
+      213: 3158225273822788812
+    second: Card_Place_Effect_59
+  - first:
+      213: 9009046942418277381
+    second: Card_Place_Effect_60
+  - first:
+      213: 2946903805970894903
+    second: Card_Place_Effect_61
+  - first:
+      213: 4060763401863486135
+    second: Card_Place_Effect_62
+  - first:
+      213: -5625569595235778917
+    second: Card_Place_Effect_63
+  - first:
+      213: 3957416190420445368
+    second: Card_Place_Effect_64
+  - first:
+      213: 844993371713706364
+    second: Card_Place_Effect_65
+  - first:
+      213: -7111709507502751702
+    second: Card_Place_Effect_66
+  - first:
+      213: -6432037175483658216
+    second: Card_Place_Effect_67
+  - first:
+      213: -4326910131485322318
+    second: Card_Place_Effect_68
+  - first:
+      213: -1027398838392155783
+    second: Card_Place_Effect_69
+  - first:
+      213: -86002800444402174
+    second: Card_Place_Effect_70
+  - first:
+      213: -4293073786429829656
+    second: Card_Place_Effect_71
+  - first:
+      213: -1516706114544199144
+    second: Card_Place_Effect_72
+  - first:
+      213: -872479675492364436
+    second: Card_Place_Effect_73
+  - first:
+      213: -1659666385407283766
+    second: Card_Place_Effect_74
+  - first:
+      213: 2142676704680685706
+    second: Card_Place_Effect_75
+  - first:
+      213: -7033834047025061182
+    second: Card_Place_Effect_76
+  - first:
+      213: 4210703709848779653
+    second: Card_Place_Effect_77
+  - first:
+      213: -1185257858964610650
+    second: Card_Place_Effect_78
+  - first:
+      213: -3853192994502606124
+    second: Card_Place_Effect_79
+  - first:
+      213: -4511028790565038369
+    second: Card_Place_Effect_80
+  - first:
+      213: -7205588766967864791
+    second: Card_Place_Effect_81
+  - first:
+      213: 4053164266534658889
+    second: Card_Place_Effect_82
+  - first:
+      213: -5761071530217495821
+    second: Card_Place_Effect_83
+  - first:
+      213: -9082357250037842445
+    second: Card_Place_Effect_84
+  - first:
+      213: 6078454399804568648
+    second: Card_Place_Effect_85
+  - first:
+      213: -3588596138655747486
+    second: Card_Place_Effect_86
+  - first:
+      213: -9068183828582182106
+    second: Card_Place_Effect_87
+  - first:
+      213: -8090822399075321658
+    second: Card_Place_Effect_88
+  - first:
+      213: -822451586598316672
+    second: Card_Place_Effect_89
+  - first:
+      213: 9053466607928237899
+    second: Card_Place_Effect_90
+  - first:
+      213: 5880344822547482162
+    second: Card_Place_Effect_91
+  - first:
+      213: -4592537377970584382
+    second: Card_Place_Effect_92
+  - first:
+      213: -911763496384831312
+    second: Card_Place_Effect_93
+  - first:
+      213: -8392911976185202989
+    second: Card_Place_Effect_94
+  - first:
+      213: -4270624210252420450
+    second: Card_Place_Effect_95
+  - first:
+      213: -3594053400255545392
+    second: Card_Place_Effect_96
+  - first:
+      213: -5633248701037925780
+    second: Card_Place_Effect_97
+  - first:
+      213: -1861666043936209578
+    second: Card_Place_Effect_98
+  - first:
+      213: -5738784452459117250
+    second: Card_Place_Effect_99
+  - first:
+      213: 8227626479644614415
+    second: Card_Place_Effect_100
+  - first:
+      213: 8022397988738477061
+    second: Card_Place_Effect_101
+  - first:
+      213: 5645120332088223592
+    second: Card_Place_Effect_102
+  - first:
+      213: 8167100687344660425
+    second: Card_Place_Effect_103
+  - first:
+      213: -4269711173117835204
+    second: Card_Place_Effect_104
+  - first:
+      213: 6493028911303271272
+    second: Card_Place_Effect_105
+  - first:
+      213: -8084144365796517797
+    second: Card_Place_Effect_106
+  - first:
+      213: -7356547414256001830
+    second: Card_Place_Effect_107
+  - first:
+      213: -1422634844739794198
+    second: Card_Place_Effect_108
+  - first:
+      213: -5630801782171135971
+    second: Card_Place_Effect_109
+  - first:
+      213: 8066163820772977192
+    second: Card_Place_Effect_110
+  - first:
+      213: 6742209074622586844
+    second: Card_Place_Effect_111
+  - first:
+      213: -4386142781643537465
+    second: Card_Place_Effect_112
+  - first:
+      213: 7288650034580358448
+    second: Card_Place_Effect_113
+  - first:
+      213: 570221160504192001
+    second: Card_Place_Effect_114
+  - first:
+      213: -2822142517322502487
+    second: Card_Place_Effect_115
+  - first:
+      213: -5094725084293646706
+    second: Card_Place_Effect_116
+  - first:
+      213: -6552248897137183363
+    second: Card_Place_Effect_117
+  - first:
+      213: 8804074338437916888
+    second: Card_Place_Effect_118
+  - first:
+      213: 7253730800044656267
+    second: Card_Place_Effect_119
+  - first:
+      213: 1623239581818412616
+    second: Card_Place_Effect_120
+  - first:
+      213: -8374549571286480020
+    second: Card_Place_Effect_121
+  - first:
+      213: 470287539462225278
+    second: Card_Place_Effect_122
+  - first:
+      213: 805306040907564039
+    second: Card_Place_Effect_123
+  - first:
+      213: -7726368928237684548
+    second: Card_Place_Effect_124
+  - first:
+      213: 5162037925504003342
+    second: Card_Place_Effect_125
+  - first:
+      213: 8984944360162339155
+    second: Card_Place_Effect_126
+  - first:
+      213: -6415185618425991098
+    second: Card_Place_Effect_127
+  - first:
+      213: 7145805703680698256
+    second: Card_Place_Effect_128
+  - first:
+      213: 5439722891615807268
+    second: Card_Place_Effect_129
+  - first:
+      213: -8707730462080074725
+    second: Card_Place_Effect_130
+  - first:
+      213: 9129601526627780567
+    second: Card_Place_Effect_131
+  - first:
+      213: -5174135247001263158
+    second: Card_Place_Effect_132
+  - first:
+      213: -2009872867277452738
+    second: Card_Place_Effect_133
+  - first:
+      213: 4579523679129355070
+    second: Card_Place_Effect_0
+  - first:
+      213: -7554953357477808628
+    second: Card_Place_Effect_1
+  - first:
+      213: -528634253608007603
+    second: Card_Place_Effect_2
+  - first:
+      213: 8847617403307713437
+    second: Card_Place_Effect_3
+  - first:
+      213: -7894248895456128899
+    second: Card_Place_Effect_4
+  - first:
+      213: 4723264032487623657
+    second: Card_Place_Effect_5
+  - first:
+      213: -7372549488490387334
+    second: Card_Place_Effect_6
+  - first:
+      213: 5801709411065652247
+    second: Card_Place_Effect_7
+  - first:
+      213: 8936455406202955570
+    second: Card_Place_Effect_8
+  - first:
+      213: 3152195407241415032
+    second: Card_Place_Effect_9
+  - first:
+      213: 5705318949783266643
+    second: Card_Place_Effect_10
+  - first:
+      213: -7872074294487184200
+    second: Card_Place_Effect_11
+  - first:
+      213: -8220757518230147869
+    second: Card_Place_Effect_12
+  - first:
+      213: -36953701600230234
+    second: Card_Place_Effect_13
+  - first:
+      213: -7453632339883508512
+    second: Card_Place_Effect_14
+  - first:
+      213: -6782857718086944676
+    second: Card_Place_Effect_15
+  - first:
+      213: -3662188732206910793
+    second: Card_Place_Effect_16
+  - first:
+      213: 2451036428812662876
+    second: Card_Place_Effect_17
+  - first:
+      213: 464032687402335682
+    second: Card_Place_Effect_18
+  - first:
+      213: -8056821924813978943
+    second: Card_Place_Effect_19
+  - first:
+      213: -420075683210138749
+    second: Card_Place_Effect_20
+  - first:
+      213: 3751514809303043347
+    second: Card_Place_Effect_21
+  - first:
+      213: -7909501073062699126
+    second: Card_Place_Effect_22
+  - first:
+      213: -6952100923730351709
+    second: Card_Place_Effect_23
+  - first:
+      213: 3503871700711870840
+    second: Card_Place_Effect_24
+  - first:
+      213: -1232990836598631335
+    second: Card_Place_Effect_25
+  - first:
+      213: 7485191078831026141
+    second: Card_Place_Effect_26
+  - first:
+      213: -3865871570813034376
+    second: Card_Place_Effect_27
+  - first:
+      213: 3734522174810041975
+    second: Card_Place_Effect_28
+  - first:
+      213: 4590452294462876164
+    second: Card_Place_Effect_29
+  - first:
+      213: -8873177795024814504
+    second: Card_Place_Effect_30
+  - first:
+      213: -1183107105142343161
+    second: Card_Place_Effect_31
+  - first:
+      213: 306664845031339933
+    second: Card_Place_Effect_32
+  - first:
+      213: -4044260882057489645
+    second: Card_Place_Effect_33
+  - first:
+      213: -2255386490920248130
+    second: Card_Place_Effect_34
+  - first:
+      213: 4502831065467794064
+    second: Card_Place_Effect_35
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Card_Place_Effect_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33cef6d58cbd8f30800000000000000
+      internalID: 4579523679129355070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Card_Place_Effect_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06f3e003f9672790800000000000000
+      internalID: -7554953357477808628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Card_Place_Effect_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48479972f9e9a8f0800000000000000
+      internalID: -528634253608007603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Card_Place_Effect_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9368b0d62d09ca70800000000000000
+      internalID: 8847617403307713437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Card_Place_Effect_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7051d1847ef17290800000000000000
+      internalID: -7894248895456128899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Card_Place_Effect_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ebcdc4dc976c8140800000000000000
+      internalID: 4723264032487623657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Card_Place_Effect_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78ea893d417fa990800000000000000
+      internalID: -7372549488490387334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Card_Place_Effect_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714eb9878ffc38050800000000000000
+      internalID: 5801709411065652247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Card_Place_Effect_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237a8d538daa40c70800000000000000
+      internalID: 8936455406202955570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Card_Place_Effect_9
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8790e379509debb20800000000000000
+      internalID: 3152195407241415032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Card_Place_Effect_10
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355e2245b5d5d2f40800000000000000
+      internalID: 5705318949783266643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Card_Place_Effect_11
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc8b9f1326c0c290800000000000000
+      internalID: -7872074294487184200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Card_Place_Effect_12
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec2545b7900aed80800000000000000
+      internalID: -8220757518230147869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Card_Place_Effect_13
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a48bfeddc6bc7ff0800000000000000
+      internalID: -36953701600230234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Card_Place_Effect_14
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec31eeb0e06f8890800000000000000
+      internalID: -7453632339883508512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Card_Place_Effect_15
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58396fa7d27ed1a0800000000000000
+      internalID: -6782857718086944676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Card_Place_Effect_16
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b27e5c40ca4d2dc0800000000000000
+      internalID: -3662188732206910793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Card_Place_Effect_17
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58bbe655a4d30220800000000000000
+      internalID: 2451036428812662876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Card_Place_Effect_18
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd39c84543907600800000000000000
+      internalID: 464032687402335682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Card_Place_Effect_19
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c242e0752b603090800000000000000
+      internalID: -8056821924813978943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Card_Place_Effect_20
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38bea7b44679b2af0800000000000000
+      internalID: -420075683210138749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Card_Place_Effect_21
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d002ab7de001430800000000000000
+      internalID: 3751514809303043347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Card_Place_Effect_22
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8fd68d2eaecb3290800000000000000
+      internalID: -7909501073062699126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Card_Place_Effect_23
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9236e2b0d258f90800000000000000
+      internalID: -6952100923730351709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Card_Place_Effect_24
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871997b5fb040a030800000000000000
+      internalID: 3503871700711870840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Card_Place_Effect_25
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9541a35ed5983eee0800000000000000
+      internalID: -1232990836598631335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Card_Place_Effect_26
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf65a1c0adb0e760800000000000000
+      internalID: 7485191078831026141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Card_Place_Effect_27
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8706862e94aa95ac0800000000000000
+      internalID: -3865871570813034376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Card_Place_Effect_28
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e2f53b120b3d330800000000000000
+      internalID: 3734522174810041975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Card_Place_Effect_29
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a26d16a0094bf30800000000000000
+      internalID: 4590452294462876164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Card_Place_Effect_30
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e79aabec32cd480800000000000000
+      internalID: -8873177795024814504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Card_Place_Effect_31
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70affb23b52c49fe0800000000000000
+      internalID: -1183107105142343161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Card_Place_Effect_32
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9771314d0e714400800000000000000
+      internalID: 306664845031339933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Card_Place_Effect_33
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31394f9b726efd7c0800000000000000
+      internalID: -4044260882057489645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Card_Place_Effect_34
+      rect:
+        serializedVersion: 2
+        x: 2368
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebcdb71afe143b0e0800000000000000
+      internalID: -2255386490920248130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Card_Place_Effect_35
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0923dcc3ff44d7e30800000000000000
+      internalID: 4502831065467794064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

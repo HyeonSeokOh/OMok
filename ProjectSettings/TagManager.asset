@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - DefaultTile
+  - ForestTile
+  - IceTile
+  - WaterTile
+  - DefaultCost
+  - Cost01
+  - Cost02
+  - Cost03
+  - Cost04
+  - Cost05
+  - BlackCost01
+  - BlackCost02
+  - BlackCost03
+  - BlackCost04
+  - BlackCost05
+  - WhiteCost01
+  - WhiteCost02
+  - WhiteCost03
+  - WhiteCost04
+  - WhiteCost05
+  - DefEffect
+  - ForEffect
+  - WatEffect
+  - IceEffect
+  - 11
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+  - 1001
+  - 1002
+  - 1003
+  - 1004
+  - 1005
+  - 1006
+  - 1007
+  - 1008
+  - 1009
+  - 1010
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+  - 101
+  - 102
+  - 103
+  - stage
+  - Prepare
+  - Turn_Panel
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - BackUI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

@@ -1,0 +1,632 @@
+fileFormatVersion: 2
+guid: d680cce685298e046a1672718ce04ee6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4068454261581281101
+    second: Trun_Button_0
+  - first:
+      213: 7142056108919346267
+    second: Trun_Button_1
+  - first:
+      213: 1909810172292467917
+    second: Trun_Button_2
+  - first:
+      213: -6844840533807282353
+    second: Trun_Button_3
+  - first:
+      213: 2583820045716734419
+    second: Trun_Button_4
+  - first:
+      213: -678794624685291603
+    second: Trun_Button_5
+  - first:
+      213: 2244394056064464604
+    second: Trun_Button_6
+  - first:
+      213: -1790136741572140459
+    second: Trun_Button_7
+  - first:
+      213: -588119577239246289
+    second: Trun_Button_8
+  - first:
+      213: -319689569412749713
+    second: Trun_Button_9
+  - first:
+      213: -7339447559525250022
+    second: Trun_Button_10
+  - first:
+      213: 3078784479227016927
+    second: Trun_Button_11
+  - first:
+      213: -5116360624831520632
+    second: Trun_Button_12
+  - first:
+      213: 6962557943407886309
+    second: Trun_Button_13
+  - first:
+      213: -6859299673004592543
+    second: Trun_Button_14
+  - first:
+      213: 8027597093769063195
+    second: Trun_Button_15
+  - first:
+      213: -7536822564543920962
+    second: Trun_Button_16
+  - first:
+      213: -7987537341339668801
+    second: Trun_Button_17
+  - first:
+      213: -8456595962732682071
+    second: Trun_Button_18
+  - first:
+      213: -5292703578353005333
+    second: Trun_Button_19
+  - first:
+      213: -8186072561572839159
+    second: Trun_Button_20
+  - first:
+      213: -1826243833038751162
+    second: Trun_Button_21
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Trun_Button_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 6
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b806899762f987c0800000000000000
+      internalID: -4068454261581281101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trun_Button_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 6
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54db0ad03ead1360800000000000000
+      internalID: 7142056108919346267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trun_Button_2
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 6
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc8bebab32018a10800000000000000
+      internalID: 1909810172292467917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trun_Button_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 6
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47c83ecccd3201a0800000000000000
+      internalID: -6844840533807282353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trun_Button_4
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 6
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1ca7454a29bd320800000000000000
+      internalID: 2583820045716734419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trun_Button_5
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 6
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da74030a2ef6496f0800000000000000
+      internalID: -678794624685291603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trun_Button_6
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 6
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd678bfa080b52f10800000000000000
+      internalID: 2244394056064464604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trun_Button_7
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 6
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552a73b3e182827e0800000000000000
+      internalID: -1790136741572140459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trun_Button_8
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 6
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2aa3394c5496d7f0800000000000000
+      internalID: -588119577239246289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trun_Button_9
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 6
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6661c8c70c309bf0800000000000000
+      internalID: -319689569412749713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trun_Button_10
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 6
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1cc3e6a45b052a90800000000000000
+      internalID: -7339447559525250022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trun_Button_11
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 6
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6ff48fb2a0aba20800000000000000
+      internalID: 3078784479227016927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trun_Button_12
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 6
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8802f1e8e190ff8b0800000000000000
+      internalID: -5116360624831520632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trun_Button_13
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 6
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5efb6e07f89ff9060800000000000000
+      internalID: 6962557943407886309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trun_Button_14
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 6
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162bb9e1a4fdec0a0800000000000000
+      internalID: -6859299673004592543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trun_Button_15
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 6
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b20165601c76f60800000000000000
+      internalID: 8027597093769063195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trun_Button_16
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 6
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb406313fc3d76790800000000000000
+      internalID: -7536822564543920962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trun_Button_17
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 6
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbee74b9b11962190800000000000000
+      internalID: -7987537341339668801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trun_Button_18
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 6
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4e050e6c224aa80800000000000000
+      internalID: -8456595962732682071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trun_Button_19
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 6
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec84de232a8c86b0800000000000000
+      internalID: -5292703578353005333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trun_Button_20
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 6
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90101ed706a356e80800000000000000
+      internalID: -8186072561572839159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trun_Button_21
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 6
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a3a72e8e0e7a6e0800000000000000
+      internalID: -1826243833038751162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
